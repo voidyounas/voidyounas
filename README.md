@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-a beginner in the world of **Computer Science** — just started my journey and I'm super excited to learn, build, and grow step by step.
+  A beginner in the world of **Computer Science** — just started my journey and I'm super excited to learn, build, and grow step by step.
 
 - 🎓 Currently pursuing **Computer Science**
 - 💻 Learning **Python**, **Java**, and problem-solving
