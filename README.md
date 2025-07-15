@@ -42,7 +42,7 @@
 
 - LinkedIn : https://www.linkedin.com/in/muhammad-younas-3921a5364/
 - Email : younaskhan120307@gmail.com
-- Insta : https://www.instagram.com/younas_x69/
+- Insta : https://www.instagram.com/voidyounas/
 ---
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand,"  Martin Fowler 
