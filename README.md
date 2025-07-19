@@ -26,15 +26,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
 
-### 🔭 Current Projects
-
-- 🗂️ **File Organizer** – Automatically organizes files by type  
-- 🎫 **Event Ticketing System** – A basic system to manage events and bookings  
-- ⏳ More coming soon as I learn and grow!
-
----
 
 ---
 
