@@ -44,7 +44,7 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-younas-3921a5364/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://leetcode.com/voidyounas/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
-  <a href="https://stackoverflow.com/users/24660755/voidyounas" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png"/></a>
+  <a href="https://stackoverflow.com/users/30768166/voidyounas" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png"/></a>
   <a href="https://medium.com/@younaskhan120307" target="_blank"><img src="https://img.icons8.com/color/48/medium-monogram.png"/></a>
   <a href="https://www.instagram.com/voidyounas/" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
 </p>
