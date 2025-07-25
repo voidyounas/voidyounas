@@ -54,7 +54,6 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 ##  Latest Medium Articles
 
 - [Got a bad GPA? No worries, I got you.](https://medium.com/@younaskhan120307/got-a-bad-gpa-no-worries-i-got-you-f9e7adb173b3)  
-- [Visit My Medium Profile](https://medium.com/@voidyounas)
 
 ---
 
