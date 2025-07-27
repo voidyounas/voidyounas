@@ -4,9 +4,11 @@
 
 <h1 align="center">Sahibzada Muhammad Younas</h1>
 
-<p align="center">
-  <strong><span style="font-size: 100px;">SOUT("Learn , Unlearn , Relearn");</span></strong>
-</p>
+<h2 align="center">
+  <span style="font-size: 100px;">SOUT("Learn , Unlearn , Relearn");</span>
+</h2>
+
+
 
 
 ---
