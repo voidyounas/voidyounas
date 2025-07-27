@@ -5,8 +5,9 @@
 <h1 align="center">Sahibzada Muhammad Younas</h1>
 
 <p align="center">
-  Aspiring Developer | Computer Science Student | Focused on Growth
+  <strong><span style="font-size: 100px;">SOUT("Learn , Unlearn , Relearn");</span></strong>
 </p>
+
 
 ---
 
@@ -67,5 +68,6 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 
 <p align="center">
   <i>"Code. Push. Repeat. Greatness takes commitment."</i><br>
+ 
   <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler</i>
 </p>
