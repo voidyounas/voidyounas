@@ -5,7 +5,7 @@
 <h1 align="center">Sahibzada Muhammad Younas</h1>
 
 <h2 align="center">
-  <span style="font-size: 100px;">COUT<<"Learn , Unlearn , Relearn";</span>
+  <span style="font-size: 100px;">cout<<"Learn , Unlearn , Relearn";</span>
 </h2>
 
 
