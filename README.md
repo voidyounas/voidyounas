@@ -32,19 +32,14 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 
 ##  GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=voidyounas&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=voidyounas&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidyounas&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voidyounas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=voidyounas&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidyounas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
