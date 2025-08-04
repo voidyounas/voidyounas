@@ -8,9 +8,6 @@
   <span style="font-size: 100px;">cout<<"Learn , Unlearn , Relearn";</span>
 </h2>
 
-
-
-
 ---
 
 ##  About Me
@@ -35,12 +32,19 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidyounas&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidyounas&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=voidyounas&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=voidyounas&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidyounas&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,7 +69,6 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=voidyounas&label=Profile%20Views&color=0e75b6&style=flat" alt="voidyounas" />
 </p>
-
 
 <p align="center">
   <i>"Code. Push. Repeat. Greatness takes commitment."</i><br>
