@@ -32,13 +32,29 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidyounas&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidyounas&layout=compact&langs_count=10&hide=cmake,html&theme=tokyonight" alt="Top Languages" height="200"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=voidyounas&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+
+</div>
+
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=voidyounas&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak" 
+    height="200"
+    style="border: 1px solid #333; border-radius: 10px; box-shadow: 0 0 10px #00000055;" 
+  />
+</div>
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=voidyounas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidyounas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
