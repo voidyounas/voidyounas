@@ -40,17 +40,6 @@ I’m a passionate CS student stepping confidently into the world of code. From 
 
 </div>
 
-
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=voidyounas&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak" 
-    height="200"
-    style="border: 1px solid #333; border-radius: 10px; box-shadow: 0 0 10px #00000055;" 
-  />
-</div>
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=voidyounas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
